@@ -1,0 +1,9 @@
+c:\users\derrick\documents\visual studio 2015\Projects\PA4\PA4\bin\Debug\PA4.exe.config
+c:\users\derrick\documents\visual studio 2015\Projects\PA4\PA4\bin\Debug\PA4.exe
+c:\users\derrick\documents\visual studio 2015\Projects\PA4\PA4\bin\Debug\PA4.pdb
+c:\users\derrick\documents\visual studio 2015\Projects\PA4\PA4\obj\Debug\PA4.csprojResolveAssemblyReference.cache
+c:\users\derrick\documents\visual studio 2015\Projects\PA4\PA4\obj\Debug\PA4.Form1.resources
+c:\users\derrick\documents\visual studio 2015\Projects\PA4\PA4\obj\Debug\PA4.Properties.Resources.resources
+c:\users\derrick\documents\visual studio 2015\Projects\PA4\PA4\obj\Debug\PA4.csproj.GenerateResource.Cache
+c:\users\derrick\documents\visual studio 2015\Projects\PA4\PA4\obj\Debug\PA4.exe
+c:\users\derrick\documents\visual studio 2015\Projects\PA4\PA4\obj\Debug\PA4.pdb
